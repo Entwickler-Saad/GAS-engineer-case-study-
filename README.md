@@ -44,7 +44,7 @@ This script automates validation, summary email notifications, and calendar invi
   - Verified that time-based triggers are created in the Apps Script dashboard.
 
 ## Customization
-- Update `FINANCE_EMAIL` at the top of `saad.js` to your finance team's email address.
+- Update `FINANCE_EMAIL` at the top of `Solution.gs` to your finance team's email address.
 - Adjust `REQUIRED_FIELDS` if your sheet uses different required columns.
 
 
