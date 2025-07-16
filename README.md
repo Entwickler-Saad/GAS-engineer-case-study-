@@ -18,7 +18,7 @@ This script automates validation, summary email notifications, and calendar invi
    - Click on `Extensions` > `Apps Script`.
 
 3. **Copy and Paste the Script**
-   - Replace any existing code with the contents of `saad.js`.
+   - Replace any existing code with the contents of `Solution.gs`.
 
 4. **Save the Script**
    - Click the save icon and name your project (e.g., "Expense Automation").
